@@ -108,11 +108,45 @@
       <updated>1681382475552</updated>
       <workItem from="1681382476779" duration="3476000" />
       <workItem from="1681388095162" duration="3110000" />
+      <workItem from="1681423939331" duration="736000" />
     </task>
+    <task id="LOCAL-00001" summary="opg">
+      <created>1681424221460</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1681424221460</updated>
+    </task>
+    <task id="LOCAL-00002" summary="opg">
+      <created>1681424316938</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1681424316938</updated>
+    </task>
+    <task id="LOCAL-00003" summary="opg">
+      <created>1681424488324</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1681424488324</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="opg" />
